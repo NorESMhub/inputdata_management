@@ -6,7 +6,7 @@ scripts and documentation for input data management between NIRD (master) and be
 ### master at betzy
 TBD
 
-### NorEWSM specific master input data (NIRD)
+### NorESM specific master input data (NIRD)
 TBD
 
 ### master copy at fram
