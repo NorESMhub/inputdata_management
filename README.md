@@ -6,13 +6,13 @@ scripts and documentation for input data management between NIRD (master) and be
 ### master at betzy
 TBD
 
-### NorESM specific master input data (NIRD)
-TBD
-
 ### master copy at fram
 TBD
 
 ### master copy at saga
+TBD
+
+### NorESM specific input data (NIRD)
 TBD
 
 ## additional inputdata (list locations here)
