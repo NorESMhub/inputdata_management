@@ -3,10 +3,10 @@ scripts and documentation for input data management between NIRD (master) and be
 
 ## file locations
 
-### master input data (NIRD)
+### master at betzy
 TBD
 
-### master copy at betzy
+### NorEWSM specific master input data (NIRD)
 TBD
 
 ### master copy at fram
