@@ -18,6 +18,8 @@ TBD
 ## additional inputdata (list locations here)
 
 ### betzy
+Work directory: 
+/cluster/home/tylo/noresm/inputdata_management_test
 
 ### fram
 
